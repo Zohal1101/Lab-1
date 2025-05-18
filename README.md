@@ -282,7 +282,7 @@ what you expect.
 ### Task 3.2: Calling `FizzBuzz.main` from `Main.main`
 
 Suppose we wanted to execute a line like `FizzBuzz.main();` in `Main.main`. Why doesn't this work?
-
+ 
 If you add this line to `Main.main`, IntelliJ will tell you the problem and suggest some fixes,
 but neither of them will *directly* fix the problem.
 
@@ -295,7 +295,7 @@ through the readings and coding homework over the next few of weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
+- [X] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message!
 
 ### Task 3.4 Pulling changes from GitHub
